@@ -1,0 +1,10 @@
+# Folders
+__pycache__/
+build/
+*.egg-info
+
+
+# Files
+*.weights
+*.so
+*.txt
